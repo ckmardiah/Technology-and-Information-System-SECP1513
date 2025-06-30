@@ -146,5 +146,3 @@ This course has truly expanded my knowledge, sharpened my thinking, and deepened
 I now feel more confident in my decision to pursue a career in technology and look forward to continuously learning, adapting, and contributing to this exciting and ever-evolving field.
 
 ---
-
-Would you like a shorter version for a resume/portfolio summary or an academic version with citations?
