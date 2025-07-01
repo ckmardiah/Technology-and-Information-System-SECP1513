@@ -58,24 +58,34 @@ There are several types of software:
 * 👨‍💻 Programming Software
 * 🛑 Malicious Software (Malware)
 
-* [📝 View Assignment – Open Ended Question (PDF)](https://github.com/ckmardiah/Technology-and-Information-System-SECP1513/blob/main/Individual%20Assignment/Open%20Ended%20Question.pdf)
+* [📝 View Assignment – Open Ended Question (PDF)](https://github.com/ckmardiah/Technology-and-Information-System-SECP1513/blob/main/Individual%20Assignment/Open%20Ended%20Question.pdf) 
+
+---
 
 **4️⃣ Information System & System Analysis**
 
 An integrated framework of people, processes, data, and technology designed to gather, process, store, and disseminate information. Its primary purpose is to facilitate informed decision-making, enhance coordination and control, and support analysis and strategic insight within an organization.
 
+---
+
 **5️⃣🗄️ Database and Data Analytics**
 * Both databases and data analytics revolve around the use of data, organization, storage, and management of data. While Data Analystics is the interpretation and analysis of that data.
+
+---
 
 **6️⃣🌐 Network and Communications**
 * Network is the connection of devicce while Communication are the method the devices used to commmunicate among them.
 
+---
+
 **7️⃣Privacy, Security, and Ethics**
 * The need of  privacy of each individual privacy and security,also at the same time and adhere to strict ethic
 
+---
+
 **8️⃣ ☁️ Cloud Computing**
 * Cloud computing lets you store, use, and access files or apps over the internet — no need to save everything on your device
-*
+
 
 ---
 
@@ -121,16 +131,16 @@ Through learning about **Information Systems and methodologies**, I discovered h
 
 Chapters on **networking and communication**, **privacy and security**, and **cloud computing** made me aware of the technical and ethical responsibilities of IT professionals. I now understand how important it is to ensure secure, reliable communication between systems and how cloud services have transformed how we store and access information globally.
 
-Beyond the classroom content, the **Industry Talks** were a standout part of this course. The session on **navigating the ICT job market** highlighted global vs local opportunities and the importance of both technical and soft skills. I learned that communication, teamwork, and adaptability are just as crucial as technical know-how in succeeding in the tech field.
+Beyond the classroom content, the **Industry Talks** were a standout part of this course. The session on **navigating the ICT job market** highlighted global vs local opportunities and the importance of both technical and soft skills.I learn how tough the current ICT job  due to disruption technology such as Generative AI,co-pilot and etc .These tools are very capable in doing the simple apps just by using a prompt.As a student i learn the need to adapt and work with Generative AI in order to be relevance in job market .This discussion also give me a beter insight about the reality of job market and the neccesary skill set that will set me apart from my competitor and appear attractive in employer eyes.I also learned that communication, teamwork, and adaptability are just as crucial as technical know-how in succeeding in the tech field.
 
-Another session on **university vs. industry** bridged the gap between academic learning and real-world expectations. It reminded me that while knowledge gained in university is foundational, continuous learning, upskilling, and hands-on experience are essential for long-term growth.
+Another session on **university vs. industry** bridged the gap between academic learning and real-world expectations. This is crucial and difficult challenge as the university need to adapt to the continous ever changing landscape of an iT Industry. Based on this , i have undestand how the University adapt to this challenge and doing their best to provide relevant skills and theory to the student.By enabling them in learning the relevant trending skill set and future skill. It reminded me that while knowledge gained in university is foundational, continuous learning, upskilling, and hands-on experience are essential for long-term growth.
 
-The **burnout and work-life balance talk** resonated deeply with me. It addressed real challenges faced by IT professionals and emphasized the need for self-care and positive coping strategies to sustain a healthy career. Lastly, the discussion on **Generative AI** opened my eyes to the future of tech innovation. It sparked my curiosity about how AI is not only transforming jobs but also creating new opportunities for creative problem-solving and collaboration.
+The **burnout and work-life balance talk** resonated deeply with me. It addressed real challenges faced by IT professionals and emphasized the need for self-care and positive coping strategies to sustain a healthy career. Lastly, the discussion on **Generative AI** opened my eyes to the future of tech innovation. It sparked my curiosity about how AI is not only transforming jobs but also creating new opportunities for creative problem-solving and collaboration.This innovation will be a great evolution of human industry and how we work .
 
 ---
 
 ##  Conclusion
 
-This course has truly expanded my knowledge, sharpened my thinking, and deepened my interest in the IT field. From understanding hardware basics to exploring cloud technology and future-ready AI, every topic contributed to my growth. The combination of theory, practical tasks, and industry engagement made this one of the most impactful courses in my academic journey so far.
+To conclude this course has help me in expanding my knowledge,and pique my interest in the IT field. From understanding hardware basics to exploring cloud technology and future-ready AI, every topic contributed to my growth. I've learned the more deeply and its clear up my general view regarding iT.The combination of theory, practical tasks, and industry engagement deepening my understanding both in theory and application .Thus this has been a great journey in exploring the iT field.
 
-I now feel more confident in my decision to pursue a career in technology and look forward to continuously learning, adapting, and contributing to this exciting and ever-evolving field.
+ This course have build me to be a person that is now more confident in my decision to pursue a career in technology and look forward to continuously learning, adapting, and contributing to this exciting and ever-evolving field.
