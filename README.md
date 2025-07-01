@@ -65,7 +65,7 @@ There are several types of software:
 An integrated framework of people, processes, data, and technology designed to gather, process, store, and disseminate information. Its primary purpose is to facilitate informed decision-making, enhance coordination and control, and support analysis and strategic insight within an organization.
 
 **5️⃣🗄️ Database and Data Analytics**
-* Both databases and data analytics revolve around the use of data, rganization, storage, and management of data.While Data Analystics is the interpretation and analysis of that data.
+* Both databases and data analytics revolve around the use of data, organization, storage, and management of data. While Data Analystics is the interpretation and analysis of that data.
 
 **6️⃣🌐 Network and Communications**
 * Network is the connection of devicce while Communication are the method the devices used to commmunicate among them.
