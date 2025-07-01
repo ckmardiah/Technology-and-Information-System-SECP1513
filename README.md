@@ -76,8 +76,6 @@ An integrated framework of people, processes, data, and technology designed to g
 **8️⃣ ☁️ Cloud Computing**
 * Cloud computing lets you store, use, and access files or apps over the internet — no need to save everything on your device
 *
-**Industry talk**
-Thanks! Here's a neatly formatted and professional **Industry Talk** section for your GitHub `README.md`, complete with clear titles and clickable links:
 
 ---
 
