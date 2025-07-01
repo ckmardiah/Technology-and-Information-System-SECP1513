@@ -83,10 +83,6 @@ Thanks! Here's a neatly formatted and professional **Industry Talk** section for
 
 ### 🏢 **Industry Talk**
 
-A series of insightful industry talks that expanded my understanding of current ICT trends, professional expectations, and future opportunities in the tech world.
-
----
-
 #### 1️⃣ **Navigating the ICT Job Market – Trends, Opportunities, and Skills for Success**
 
 An overview of the evolving ICT job market(local vs Global), emerging opportunities, and the key skills required to succeed in the industry either technical or soft-skills.
@@ -115,10 +111,6 @@ An exploration of how generative AI is shaping the future of the ICT field, revo
 
 ---
 **Reflection on SECP1513-Technology and Information System Course**
-* Here’s a **reflection essay** based on the content of your Technology and Information System course and the industry talks. It’s personalized, well-structured, and professionally written. You can use this as a final reflection for your portfolio, assignment, or GitHub `README.md`:
-
----
-
 ## ✨ **Reflection Essay: My Learning Journey in Technology and Information System (SECP1513)**
 
 As I'm looking back and remisniscence throughout my study over this course , I have found that it has been a meaningful and eye-opening experience for me. It has strengthened my foundation in IT and help me create a proper pathway for me to procced into my next journey in thie field.In Addition, This course not only enhanced my theoretical understanding of core IT concepts but also gave me practical exposure through assignments and insightful industry talks.
@@ -144,5 +136,3 @@ The **burnout and work-life balance talk** resonated deeply with me. It addresse
 This course has truly expanded my knowledge, sharpened my thinking, and deepened my interest in the IT field. From understanding hardware basics to exploring cloud technology and future-ready AI, every topic contributed to my growth. The combination of theory, practical tasks, and industry engagement made this one of the most impactful courses in my academic journey so far.
 
 I now feel more confident in my decision to pursue a career in technology and look forward to continuously learning, adapting, and contributing to this exciting and ever-evolving field.
-
----
